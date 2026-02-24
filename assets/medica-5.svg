@@ -1,0 +1,6 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="1000" fill="#FAECF3"/>
+<circle cx="400" cy="320" r="170" fill="#F3CFE0"/>
+<path d="M160 910C180 710 270 620 400 620C530 620 620 710 640 910" fill="#8A3F66"/>
+<text x="400" y="965" text-anchor="middle" fill="#8A3F66" font-size="42" font-family="Arial, sans-serif">Dra. Larissa Menezes</text>
+</svg>
