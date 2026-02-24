@@ -248,7 +248,8 @@ h2 {
 .team-carousel {
   margin-top: 2rem;
   overflow: hidden;
-  mask-image: linear-gradient(to right, transparent, black 8%, black 92%, transparent);
+  padding: 0.25rem 0;
+  mask-image: linear-gradient(to right, transparent, black 4%, black 96%, transparent);
 }
 
 .team-track {
@@ -269,6 +270,7 @@ h2 {
   border: 1px solid rgba(171, 87, 129, 0.2);
   box-shadow: 0 10px 24px rgba(8, 36, 53, 0.08);
   overflow: hidden;
+  min-height: 320px;
 }
 
 .team-card img {
@@ -378,6 +380,10 @@ h2 {
 
   .stats {
     grid-template-columns: 1fr;
+  }
+
+  .team-carousel {
+    mask-image: none;
   }
 }
 
